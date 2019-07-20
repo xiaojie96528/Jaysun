@@ -1,0 +1,16 @@
+﻿F6::
+loop
+{
+sleep,1000
+click
+sleep,1000
+click
+sleep,1200000
+click
+sleep,1000
+click
+sleep,1000
+click
+}
+Return
+F7::Pause
